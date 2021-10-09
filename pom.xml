@@ -11,7 +11,7 @@
 	</parent>
 	<groupId>com.employeeMgmt</groupId>
 	<artifactId>Employee-Mangement</artifactId>
-	<version>v1.00</version>
+	<version>v1.0</version>
 	<name>Employee-Mangement</name>
 	<description>Demo project for Spring Boot</description>
 	<properties>
